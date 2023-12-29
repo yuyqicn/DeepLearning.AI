@@ -1,2 +1,2 @@
-# Tedu-Python
-达内Python学习
+# DeepLearning
+深度学习
